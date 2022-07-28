@@ -25,6 +25,7 @@ dual 4010 toolhead with Stealthburner style leds for dragon hotend/sherpa mini.
 * heatset m3, 5mm diameter, 4mm tall
 * 2x 4010 fans. Delta BFB0412HHA-A or BFB0405HHA-A are recommended
 * 1x 3010 fan. Sunon MF30101V1-1000U-A99 
+* 2x makerbeam XL m3 nut for MGN9 carriage (printed nuts work but they not last)
 * Sherpa mini extruder. [optional front brace](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace)
 * klickyNG probe
 
