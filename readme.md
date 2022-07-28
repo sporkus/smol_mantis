@@ -2,7 +2,7 @@
 
 dual 4010 toolhead with Stealthburner style leds for dragon hotend/sherpa mini.
 
-![](./images/front.png)
+![](./images/front.png) ![](./images/built.png)
 
 ### Features
 * Split mgn12 carriage to faciliate belt installation
