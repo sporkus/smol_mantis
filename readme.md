@@ -16,7 +16,9 @@ dual 4010 toolhead with Stealthburner style leds for dragon hotend/sherpa mini.
 * Toolhead has the same mounting pattern as the stock mantis, and should work with other mantis carriage variants for other probe needs
 * KlickyNG is not compatible with original Klicky probes. KlickyNG/unklickyNG probes are much easier to build.
 * Dragon SF/HF hotend
-* Homemade or bought sherpa mini extruder
+* Mosquito hotend (experimental)
+* sherpa mini extruder
+* folded ascender extruder (experimental)
 
 
 ### BOM
@@ -27,6 +29,7 @@ dual 4010 toolhead with Stealthburner style leds for dragon hotend/sherpa mini.
 * 1x 3010 fan. Sunon MF30101V1-1000U-A99 
 * 2x makerbeam XL m3 nut for MGN9 carriage (printed nuts work but they not last)
 * Sherpa mini extruder. [optional front brace](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace)
+* Folded ascender extruder
 * 3 x 6mmx3mm round magnets
 * klickyNG probe
 
@@ -35,6 +38,7 @@ dual 4010 toolhead with Stealthburner style leds for dragon hotend/sherpa mini.
 * 4010 fan shroud was based on [Minsket's](https://github.com/Minsekt/moronvods/tree/main/Dual_4010_SB_LEDS), but the fan duct has been redesigned for airflow/rigidity/upgradability
 * [Long's mantis toolhead](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015)
 * [Annex Engineering Sherpa Mini extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
+* [Annex Engineering Folded Ascender extruder](https://github.com/Annex-Engineering/Folded_Ascender-Extruder)
 * [KlickyProbe](https://github.com/jlas1/Klicky-Probe)
 
 
